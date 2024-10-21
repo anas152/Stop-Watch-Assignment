@@ -38,8 +38,11 @@ body {
     left: 4%;
     padding:40px;
     display: flex;
+    font-family: 'Roboto mano', monospace;
+    color: gray;
+    font-size: 25px;
     align-items: center;
-    justify-content: space-between;
+    justify-content: space-around;
     box-shadow: 0 0 20px rgba(65, 5, 165, 0.50);
     border-radius: 10px;
 }
@@ -57,7 +60,6 @@ body {
     border-radius: 5px;
     font-family:'popins', sans-serif;
     cursor: pointer;
-    border-
 
 
 }
